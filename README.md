@@ -1,4 +1,4 @@
-## Hey, I'm Arran 👋
+## Hey, I'm Anthony👋
 I'm a Computer Science and Software Engineering student at **Maynooth University**.  
 I've always loved problem-solving, and I'm now channeling that passion into learning and building in the field of computer science.
 
